@@ -24,6 +24,5 @@ Python · TypeScript · Next.js · FastAPI · Rust (Tauri) · Go · Docker · Po
 
 ### Reach me
 
-- Email — alexvales111@gmail.com
 - Located in — Madrid, Spain
 - Open to — opportunities where shipping things that real users pay for is the job.
