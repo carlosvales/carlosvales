@@ -6,7 +6,7 @@ Solo developer based in Madrid. I design, ship and operate production SaaS, AI-p
 
 - **Independent SaaS** — end to end: API, frontend, billing, deploy, on-call.
 - **AI-driven automations** — trading and signal bots, Telegram/Discord assistants, all running on a mix of self-hosted Ollama and cloud LLMs.
-- **Self-hosted infra** — Raspberry Pi 4 in production, RTX 3070 Ti for ML workloads, Tailscale mesh, Cloudflare tunnels, Docker everywhere.
+- **Self-hosted infra**
 
 ### Stack
 
