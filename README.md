@@ -15,7 +15,7 @@ Software engineer in Madrid. I run [VASEIA](https://vaseia.com), where I build w
 ### Projects
 
 - **[claude-launcher](https://github.com/carlosvales/claude-launcher)**: desktop app (Tauri, React, Rust) to open any Claude Code project in one click. Remembers model, effort and session per project. [v0.2.0](https://github.com/carlosvales/claude-launcher/releases) out.
-- **Self-hosted infrastructure**: production services and private LLM inference on my own hardware. Zero-trust access with no public ports, everything containerized, health checks with automatic alerts and daily backups. Client data never leaves it.
+- **Self-hosted infrastructure**: production services and private LLM inference on my own hardware. Zero-trust access with no public ports, everything containerized, health checks with automatic alerts and automated backups.
 - **[bolsa-ai-trading](https://github.com/carlosvales/bolsa-ai-trading)**: stock signals bot on Telegram. Technical analysis, GradientBoosting as a ticker filter and local LLMs. 30 tests, Dockerized. Archived: it cost more compute than the signals were worth, so I shut it down.
 - **QRTap**: QR code SaaS with live Stripe billing, built and run end to end. It never found paying users, so I closed it and wrote the postmortem.
 
